@@ -26,11 +26,6 @@ An AI-powered web application that predicts whether a YouTube video will go vira
 - Pandas, NumPy
 - Matplotlib / Plotly
 
----
-
-## 📸 Screenshots
-
-(Add screenshots here later)
 
 ---
 
